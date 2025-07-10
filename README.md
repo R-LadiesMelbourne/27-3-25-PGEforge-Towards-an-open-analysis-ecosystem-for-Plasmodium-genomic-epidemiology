@@ -7,7 +7,7 @@ Shazia will presented the functionalities of PGEforge, including real-world appl
 
 :octocat: Find the full GitHub repository [here](https://github.com/shaziaruybal/pgeforge_rladiesmelb)
 
-:film_strip: Youtube recording...[coming soon!](https://www.youtube.com/@r-ladiesmelbourne509)
+:film_strip: Youtube recording...[watch it here!](https://www.youtube.com/watch?v=HgdiwgLeAME)
 
 :dart: Blog post...[coming soon!](https://r-ladiesmelbourne.github.io/blog_index.html)
 
